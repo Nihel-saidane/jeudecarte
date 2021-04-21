@@ -1,0 +1,10 @@
+com\atexo\JeuCartes\Models\Carte.class
+com\atexo\JeuCartes\Models\ResponseTriByValue.class
+com\atexo\JeuCartes\Controller\CarteController.class
+com\atexo\JeuCartes\Enumeration\ECouleur.class
+com\atexo\JeuCartes\Service\CarteService.class
+com\atexo\JeuCartes\Service\Impl\CarteServiceImpl.class
+com\atexo\JeuCartes\Enumeration\EValeur.class
+com\atexo\JeuCartes\Models\ResponseTriByColor.class
+com\atexo\JeuCartes\JeuCartesApplication.class
+com\atexo\JeuCartes\Models\Main.class
