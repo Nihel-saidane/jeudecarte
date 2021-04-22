@@ -17,6 +17,7 @@ import java.util.List;
  * @created 02/04/2021
  */
 @RestController
+@RequestMapping("/carte")
 public class CarteController {
 
     @Autowired
